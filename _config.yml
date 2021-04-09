@@ -11,7 +11,7 @@ title                    : "Mingxu Li"
 title_separator          : "-"
 name                     : &name "Mingxu Li"
 description              : &description "personal description"
-url                      : https://yizhenlao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lidadadaxu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lidadadaxu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Mingxu Li, postgraduate student"
-  avatar           : "IMG_9431.jpg"
+  avatar           : "./images/IMG_9431.jpg"
   bio              : "Email: Li.Mingxu@my.swjtu.edu.cn <br /> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; crazy613cat@outlook.com"
   location         : "Chengdu, China"
   employer         : "Southwest Jiaotong University"
