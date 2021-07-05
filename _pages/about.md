@@ -28,8 +28,15 @@ Publication
 
 Project Result 
 ========
+
 -  <b>Improving Multi-Object Tracking via trajectory prediction from the angle of UAV</b><br/>
 ![MOT](../images/mot_result.png)
+
+-  <b>Object Segmentation</b><br/>
+
+	Developing···
+![Object Segmentation](../images/Segmentation.JPG)
+
 
 -  <b>Vehicle Count</b><br/>
  ![car_count](../images/car_count.JPG)
