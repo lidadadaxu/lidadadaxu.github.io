@@ -15,8 +15,9 @@ I am a graduate student at the [The School Of Information Science And Technology
 
 News 
 ========
-- [03/30/2021] Another paper is submitted! 
-- [03/17/2021] One paper about Multi-Object Tracking is submitted! 
+- [09/05/2021] One paper about Multi-Object Tracking is submitted! 
+- [09/01/2021] Another paper about Crack Detection is submitted! 
+
 
 
 Publication  
@@ -29,8 +30,8 @@ Publication
 Project Result 
 ========
 
--  <b>Improving Multi-Object Tracking via trajectory prediction from the angle of UAV</b><br/>
-![MOT](../images/mot_result.png)
+-  <b>Improving Multi-Object Tracking via trajectory prediction from the angle of UAV </b><br/>
+![MOT](../images/mot.png)
 
 -  <b>Object Segmentation</b><br/>
 
