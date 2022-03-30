@@ -18,7 +18,7 @@ News
 - <b>Improving Multi-Object Tracking via trajectory prediction from the angle of UAV </b><br/>
 ![MOT](../images/mot.jpg)
 - <b>RBNet: An Ultra Fast Rendering-based Architecture for Railway Defects Segmentation</b><br/>
-![MOT](../images/seg_table.png)
+![seg_table](../images/seg_table.png)
 
 
 
@@ -31,9 +31,6 @@ Publication
 
 Project Result 
 ========
-
--  <b>Improving Multi-Object Tracking via trajectory prediction from the angle of UAV </b><br/>
-![MOT](../images/mot.jpg)
 
 -  <b>Object Segmentation</b><br/>
 
