@@ -15,8 +15,10 @@ I am a graduate student at the [The School Of Information Science And Technology
 
 News 
 ========
-- [09/05/2021] One paper about Multi-Object Tracking is submitted! 
-- [09/01/2021] Another paper about Crack Detection is submitted! 
+- <b>Improving Multi-Object Tracking via trajectory prediction from the angle of UAV </b><br/>
+![MOT](../images/mot.jpg)
+- <b>RBNet: An Ultra Fast Rendering-based Architecture for Railway Defects Segmentation</b><br/>
+![MOT](../images/seg_table.png)
 
 
 
@@ -35,7 +37,6 @@ Project Result
 
 -  <b>Object Segmentation</b><br/>
 
-	Developing···
 ![Object Segmentation](../images/Segmentation.JPG)
 
 
