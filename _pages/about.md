@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ========
-I am a graduate student at the [The School Of Information Science And Technology](http://sist.swjtu.edu.cn/index.do?action=index), [Southwest Jiaotong University](https://www.swjtu.edu.cn/). Previously I obtained my  Bachelor's degree of Engineering  from [Jiangsu University of Science and Technology](https://www.just.edu.cn/), China.
+I am a graduate student at the [The School Of Computing And Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn/). Previously I obtained my  Bachelor's degree of Engineering  from [Jiangsu University of Science and Technology](https://www.just.edu.cn/), China.
 
 
 News 
