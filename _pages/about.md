@@ -10,13 +10,13 @@ redirect_from:
 
 About me
 ========
-I am a graduate student at the [The School Of Computing And Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn/). Previously I obtained my  Bachelor's degree of Engineering  from [Jiangsu University of Science and Technology](https://www.just.edu.cn/), China.
+
+I received my Master Degree in software engineering from [The School Of Computing And Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn/), Previously I obtained my  Bachelor's degree of Engineering  from [Jiangsu University of Science and Technology](https://www.just.edu.cn/), China. I am currently currently pursuing his Ph.D. degree in computer science technology from Southwest Jiaotong University. My research interests include automatic driving and computer vision.
 
 
-News 
+<!-- News 
 ========
-- <b>Improving Multi-Object Tracking via trajectory prediction from the angle of UAV </b><br/>
-![MOT](../images/mot.jpg)
+- <b> -->
 
 
 
@@ -28,6 +28,14 @@ Publication
 -  <b>Significance detection method with irregular pixel clusters</b><br />
    <b>Li Mingxu</b>,Zhai Donghai <br />
 	  [[web]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20200909&flag=1)  &nbsp;  [[pdf]](/files/paper.pdf)
+
+-  <b>BVTracker: Multi-Vehicle Tracking based on Behavioural-Visual Features (IEEE Sensors Journal)</b><br />
+   <b>Li Mingxu</b>,Zhai Donghai ,Da Yang ,Lihua Xu <br/>
+	  [[web]](https://ieeexplore.ieee.org/document/10102430)  &nbsp;  [[pdf]](/files/BVTracker.pdf)
+
+-  <b>BVTracker: Multi-Vehicle Tracking based on Behavioural-Visual Features (IEEE Transactions on Instrumentation and Measurement)</b><br />
+   <b>Li Mingxu</b>,Bo Peng ,Jian Liu ,Donghai Zhai <br/>
+	  [[web]](https://ieeexplore.ieee.org/document/10106288)  &nbsp;  [[pdf]](/files/RBNet.pdf)
 
 Project Result 
 ========
