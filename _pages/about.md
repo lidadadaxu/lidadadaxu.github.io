@@ -37,7 +37,7 @@ Publication
    <b>Li Mingxu</b>,Zhai Donghai ,Da Yang ,Lihua Xu <br/>
 	  [[web]](https://ieeexplore.ieee.org/document/10102430)  &nbsp;  [[pdf]](/files/BVTracker.pdf)
 
--  <b>BVTracker: Multi-Vehicle Tracking based on Behavioural-Visual Features (IEEE Transactions on Instrumentation and Measurement)</b><br />
+-  <b>RBNet: An Ultra Fast Rendering-based Architecture for Railway Defects Segmentation (IEEE Transactions on Instrumentation and Measurement)</b><br />
    <b>Li Mingxu</b>,Bo Peng ,Jian Liu ,Donghai Zhai <br/>
 	  [[web]](https://ieeexplore.ieee.org/document/10106288)  &nbsp;  [[pdf]](/files/RBNet.pdf)
 
