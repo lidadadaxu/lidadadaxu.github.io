@@ -13,7 +13,7 @@ About me
 
 I received my Master Degree in software engineering from [The School Of Computing And Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn/), Previously I obtained my  Bachelor's degree of Engineering  from [Jiangsu University of Science and Technology](https://www.just.edu.cn/), China. I am currently currently pursuing my Ph.D. degree in computer science technology from Southwest Jiaotong University. My research interests include automatic driving and computer vision.
 
-I obtained my Bachelor's degree in Internet of Things from [Jiangsu University of Science and Technology](https://www.just.edu.cn/) in China, and later received my Master's degree in Software Engineering from [The School Of Computing And Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn/). Currently, I am pursuing my Ph.D. degree in Computer Science Technology from the same university.
+I obtained my Bachelor's degree in Internet of Things from [Jiangsu University of Science and Technology](https://www.just.edu.cn/) in China, and later received my Master's degree in Software Engineering from [The School Of Computing And Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn/) in 2022.06. Currently, I am pursuing my Ph.D. degree in Computer Science Technology from the same university.
 
 My research interests lie in the fields of railway defects inspection and computer vision.
 
