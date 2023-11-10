@@ -11,11 +11,11 @@ redirect_from:
 About me
 ========
 
-I received my Master Degree in software engineering from [The School Of Computing And Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn/), Previously I obtained my  Bachelor's degree of Engineering  from [Jiangsu University of Science and Technology](https://www.just.edu.cn/), China. I am currently currently pursuing my Ph.D. degree in computer science technology from Southwest Jiaotong University. My research interests include automatic driving and computer vision.
+I am a Ph.D. candidate in Computer Science Technology at [Southwest Jiaotong University](https://www.swjtu.edu.cn/), with a research focus on Computer Vision and Contrastive Learning. I earned my Master's Degree in Software Engineering from the [School of Computing and Artificial Intelligence](https://scai.swjtu.edu.cn/index.html) at the same university. Prior to this, I completed my Bachelor's Degree in Engineering at [Jiangsu University of Science and Technology](https://www.just.edu.cn/), China.
 
-I obtained my Bachelor's degree in Internet of Things from [Jiangsu University of Science and Technology](https://www.just.edu.cn/) in China, and later received my Master's degree in Software Engineering from [The School Of Computing And Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn/) in 2022.06. Currently, I am pursuing my Ph.D. degree in Computer Science Technology from the same university.
+<!-- I obtained my Bachelor's degree in Internet of Things from [Jiangsu University of Science and Technology](https://www.just.edu.cn/) in China, and later received my Master's degree in Software Engineering from [The School Of Computing And Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn/) in 2022.06. Currently, I am pursuing my Ph.D. degree in Computer Science Technology from the same university.
 
-My research interests lie in the fields of railway defects inspection and computer vision.
+My research interests lie in the fields of railway defects inspection and computer vision. -->
 
 
 <!-- News 
@@ -40,29 +40,25 @@ Publication
    <b>Li Mingxu</b>,Zhai Donghai* <br />
 	  [[web]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20200909&flag=1)  &nbsp;  [[pdf]](/files/paper.pdf)
 
--  <b>Improved Autonomous Vehicle Target Detection Method of YOLOv5s (Computer System Applications)</b><br />
-   Yu Yichun*, <b>Li Mingxu</b><br />
-	  [[web]](http://www.c-s-a.org.cn/csa/article/abstract/Bq056)
-
 -  <b>Study on the Behavior Ability Testing of Automated vehicles</b><br />
    Qian Guo, Kechen Pu, Huanwei Qi, <b>Mingxu Li</b>, Da Yang* <br/>
 	  [[web]](https://trid.trb.org/view/1759600)
 
 
 
-Project Result 
+Current Works 
 ========
 
--  <b>Object Segmentation</b><br/>
+-  <b>Contrastive Learning Based Defects Inspection</b><br/>
 
-![Object Segmentation](../images/Segmentation.JPG)
+![Object Segmentation](../images/lss_result.png)
 
 
--  <b>Vehicle Count</b><br/>
+<!-- -  <b>Vehicle Count</b><br/>
  ![car_count](../images/car_count.JPG)
  
 -  <b>Multi-lane Lines Detection</b><br/>
- ![Multi-lane_Lines_Detection](../images/Multi-lane_Lines_Detection.JPG)
+ ![Multi-lane_Lines_Detection](../images/Multi-lane_Lines_Detection.JPG) -->
 
 
 
