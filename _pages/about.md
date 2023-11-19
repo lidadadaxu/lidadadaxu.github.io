@@ -52,7 +52,12 @@ Current Works
 -  <b>Contrastive Learning Based Defects Inspection</b><br/>
 
 ![Segmentation](../images/lss_result.png)
-![Segmentation](../images/lss_vis_result.png)
+![Vis Comp](../images/lss_vis_result.png)
+
+
+-  <b>Dataset Collecting</b><br/>
+
+![Segmentation](../images/dataset_collecting.png)
 
 <!-- -  <b>Vehicle Count</b><br/>
  ![car_count](../images/car_count.JPG)
