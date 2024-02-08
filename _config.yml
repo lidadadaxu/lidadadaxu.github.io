@@ -78,11 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mingxu Li, Ph.D. student"
+  name             : "Mingxu Li, PhD. student"
   avatar           : "IMG_9431.jpg"
-  bio              : "Email: Li.Mingxu@my.swjtu.edu.cn"
+  # bio              : "Email: Li.Mingxu@my.swjtu.edu.cn"
   location         : "Chengdu, China"
   employer         : "Southwest Jiaotong University"
+  employer         : "University of Birmingham"
   googlescholar    : #"https://scholar.google.fr/citations?user=OhPsgH0AAAAJ&hl=en"
   email            : Li.Mingxu@my.swjtu.edu.cn 
   uri              : #"http://csee.hnu.edu.cn/people/laoyizhen"
