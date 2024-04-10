@@ -55,7 +55,7 @@ Current Works
 ![Vis Comp](../images/lss_vis_result.png)
 
 
--  <b>Connected Dataset</b><br/>
+-  <b>Our Dataset</b><br/>
 
 ![Segmentation](../images/dataset_collecting.png)
 
