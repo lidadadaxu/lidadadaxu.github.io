@@ -11,7 +11,7 @@ redirect_from:
 About me
 ========
 
-I am a Ph.D. student in Computer Science Technology at [Southwest Jiaotong University](https://www.swjtu.edu.cn/), and a joint Ph.D. student at Southwest Jiaotong University, the University of Birmingham, and Nanyang Technological University (NTU), with a research focus on Computer Vision. I earned my Master's Degree in Software Engineering from the [School of Computing and Artificial Intelligence](https://scai.swjtu.edu.cn/index.html) at the same university. Prior to this, I completed my Bachelor's Degree in Engineering at [Jiangsu University of Science and Technology](https://www.just.edu.cn/), China.
+I am a Ph.D. student in Computer Science Technology at [Southwest Jiaotong University](https://www.swjtu.edu.cn/), and a joint Ph.D. student at the Southwest Jiaotong University, the University of Birmingham, and the Nanyang Technological University, with a research focus on Computer Vision. I earned my Master's Degree in Software Engineering from the [School of Computing and Artificial Intelligence](https://scai.swjtu.edu.cn/index.html) at the same university. Prior to this, I completed my Bachelor's Degree in Engineering at [Jiangsu University of Science and Technology](https://www.just.edu.cn/), China.
 
 <!-- I obtained my Bachelor's degree in Internet of Things from [Jiangsu University of Science and Technology](https://www.just.edu.cn/) in China, and later received my Master's degree in Software Engineering from [The School Of Computing And Artificial Intelligence](https://scai.swjtu.edu.cn/index.html), [Southwest Jiaotong University](https://www.swjtu.edu.cn/) in 2022.06. Currently, I am pursuing my Ph.D. degree in Computer Science Technology from the same university.
 
