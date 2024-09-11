@@ -41,6 +41,7 @@ Publication
 
 
 
+-  <b>Our New Model</b><br/>
 
 ![[Vis Comp](../images/power_comp.png)
 
