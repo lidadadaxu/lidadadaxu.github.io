@@ -40,10 +40,12 @@ Publication
    Qian Guo, Kechen Pu, Huanwei Qi, Mingxu Li, Da Yang*  [[web]](https://trid.trb.org/view/1759600)
 
 
+Recent Work 
+========
 
 -  <b>Our New Model</b><br/>
 
-![[Vis Comp](../images/power_comp.png)
+![power](../images/power_comp.png)
 
 
 -  <b>Our Dataset</b><br/>
