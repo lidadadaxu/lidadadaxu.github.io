@@ -28,21 +28,16 @@ My research interests lie in the fields of railway defects inspection and comput
 
 Publication  
 ========
--  <b>RBNet: An Ultra Fast Rendering-based Architecture for Railway Defects Segmentation (IEEE Transactions on Instrumentation and Measurement)</b><br />
-   <b>Li Mingxu</b>,Bo Peng ,Jian Liu ,Donghai Zhai* <br/>
-	  [[web]](https://ieeexplore.ieee.org/document/10106288)  &nbsp;  [[pdf]](/files/RBNet.pdf)
+-  <b>M. Li</b>, B. Peng and D. Zhai, "Latent Space Segmentation Model for Visual Surface Defect Inspection," in IEEE Transactions on Instrumentation and Measurement, vol. 73, pp. 1-11, 2024, Art no. 5029111, doi: 10.1109/TIM.2024.3446650<br/> [[web]](https://ieeexplore.ieee.org/abstract/document/10654578)  &nbsp;
 
--  <b>BVTracker: Multi-Vehicle Tracking based on Behavioural-Visual Features (IEEE Sensors Journal)</b><br />
-   <b>Li Mingxu</b>, Zhai Donghai*, Da Yang ,Lihua Xu <br/>
-	  [[web]](https://ieeexplore.ieee.org/document/10102430)  &nbsp;  [[pdf]](/files/BVTracker.pdf)
+-  <b>M. Li</b>, B. Peng, J. Liu and D. Zhai, "RBNet: An Ultrafast Rendering-Based Architecture for Railway Defect Segmentation," in IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-8, 2023, Art no. 2512808, doi: 10.1109/TIM.2023.3269107. [[web]](https://ieeexplore.ieee.org/document/10106288) &nbsp;
 
--  <b>Significance detection method with irregular pixel clusters (Journal of Image and Graphics)</b><br />
-   <b>Li Mingxu</b>,Zhai Donghai* <br />
-	  [[web]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20200909&flag=1)  &nbsp;  [[pdf]](/files/paper.pdf)
+-  <b>M. Li</b>, D. Zhai, D. Yang and L. Xu, "BVTracker: Multivehicle Tracking Based on Behavioral-Visual Features," in IEEE Sensors Journal, vol. 23, no. 11, pp. 11815-11824, 1 June1, 2023, doi: 10.1109/JSEN.2023.3265659. [[web]](https://ieeexplore.ieee.org/document/10102430)  &nbsp; 
 
--  <b>Study on the Behavior Ability Testing of Automated vehicles</b><br />
-   Qian Guo, Kechen Pu, Huanwei Qi, <b>Mingxu Li</b>, Da Yang* <br/>
-	  [[web]](https://trid.trb.org/view/1759600)
+-  <b>李明旭</b>,翟东海.不规则像素簇显著性检测算法[J].中国图象图形学报,2020,25(09):1837-1847.</b> [web]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20200909&flag=1)  &nbsp; 
+
+-  Guo Q., Pu K., Qi H., <b>Li M.</b>, and Yang D. Study on the Behavior Ability Testing of Automated Vehicles[R]. 2021.
+   Qian Guo, Kechen Pu, Huanwei Qi, Mingxu Li, Da Yang*  [[web]](https://trid.trb.org/view/1759600)
 
 
 
@@ -51,19 +46,14 @@ Current Works
 
 -  <b>The LiteDepNet</b><br/>
 
-![Segmentation](../images/lss_result.png)
-![Vis Comp](../images/lss_vis_result.png)
+![[Vis Comp](../images/power_comp.png)
 
 
 -  <b>Our Dataset</b><br/>
 
 ![Segmentation](../images/dataset_collecting.png)
 
-<!-- -  <b>Vehicle Count</b><br/>
- ![car_count](../images/car_count.JPG)
- 
--  <b>Multi-lane Lines Detection</b><br/>
- ![Multi-lane_Lines_Detection](../images/Multi-lane_Lines_Detection.JPG) -->
+
 
 
 
