@@ -34,7 +34,7 @@ Publication
 
 -  <b>M. Li</b>, D. Zhai, D. Yang and L. Xu, "BVTracker: Multivehicle Tracking Based on Behavioral-Visual Features," in IEEE Sensors Journal, vol. 23, no. 11, pp. 11815-11824, 1 June1, 2023, doi: 10.1109/JSEN.2023.3265659. [[web]](https://ieeexplore.ieee.org/document/10102430)  &nbsp; 
 
--  <b>李明旭</b>,翟东海.不规则像素簇显著性检测算法[J].中国图象图形学报,2020,25(09):1837-1847.</b> [[web]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20200909&flag=1)  &nbsp; 
+-  <b>李明旭</b>,翟东海.不规则像素簇显著性检测算法[J].中国图象图形学报,2020,25(09):1837-1847. [[web]](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20200909&flag=1)  &nbsp; 
 
 -  Guo Q., Pu K., Qi H., <b>Li M.</b>, and Yang D. Study on the Behavior Ability Testing of Automated Vehicles[R]. 2021.
    Qian Guo, Kechen Pu, Huanwei Qi, Mingxu Li, Da Yang*  [[web]](https://trid.trb.org/view/1759600)
