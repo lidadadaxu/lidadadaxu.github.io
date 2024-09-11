@@ -41,10 +41,6 @@ Publication
 
 
 
-Current Works 
-========
-
--  <b>The LiteDepNet</b><br/>
 
 ![[Vis Comp](../images/power_comp.png)
 
