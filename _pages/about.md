@@ -38,7 +38,7 @@ Publications
 * **M. Li**, D. Zhai, D. Yang and L. Xu, "BVTracker: Multivehicle Tracking Based on Behavioral-Visual Features," in *IEEE Sensors Journal*, vol. 23, no. 11, pp. 11815-11824, 1 June1, 2023, doi: 10.1109/JSEN.2023.3265659.
     [[web]](https://doi.org/10.1109/JSEN.2023.3265659)
 
-* **M. Li**, "Research on precise restoration of thangka and Tibetan murals integrating contour drawing techniques," *Digital Heritage 2025*. [[web]](https://doi.org/10.2312/dh.20253242)
+* **M. Li**, "Research on precise restoration of thangka and Tibetan murals integrating contour drawing techniques," *Digital Heritage International Congress 2025*. [[web]](https://doi.org/10.2312/dh.20253242)
 
 * **李明旭**, 翟东海. "不规则像素簇显著性检测算法," *中国图象图形学报*, vol. 25, no. 9, pp. 1837-1847, 2020.
     [[web]](https://dx.doi.org/10.11834/jig.190587)
