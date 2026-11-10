@@ -1,0 +1,60 @@
+- title: "S2R: From Screening to Recognition, Event-Driven Perception of Railway Defects in Low-Power Systems"
+  authors: "**M. Li**, D. Zhai and S. Wang"
+  venue: "IEEE Transactions on Intelligent Transportation Systems"
+  year: 2026
+  url: "https://doi.org/10.1109/TITS.2026.3694462"
+  featured: true
+  summary: "Spiking neural network screening triggers convolutional neural network segmentation for low-power railway defect perception, with contrastive learning and hard-sample mining."
+
+- title: "Research on precise restoration of thangka and Tibetan murals integrating contour drawing techniques"
+  authors: "**M. Li**"
+  venue: "Digital Heritage International Congress"
+  year: 2025
+  url: "https://doi.org/10.2312/dh.20253242"
+  summary: "Contour-guided restoration of Thangka artworks and Tibetan murals."
+
+- title: "Measuring Fairness in Financial Transaction Machine Learning Models"
+  authors: "D. S. Ayvaz, L. Belenguer, H. He, D. D. Kanubala, **M. Li**, S. Low, C. Mougan, F. C. Onwuegbuche, Y. Pi, N. Sikora, D. Tran, S. Verma, H. Wang, S. Xie and A. Pelletier"
+  venue: "arXiv preprint arXiv:2501.10784"
+  year: 2025
+  url: "https://arxiv.org/abs/2501.10784"
+
+- title: "Latent Space Segmentation Model for Visual Surface Defect Inspection"
+  authors: "**M. Li**, B. Peng and D. Zhai"
+  venue: "IEEE Transactions on Instrumentation and Measurement"
+  year: 2024
+  details: "vol. 73, pp. 1–11, Art. no. 5029111"
+  url: "https://doi.org/10.1109/TIM.2024.3446650"
+  featured: true
+  summary: "Achieved 71 FPS on Jetson Nano and improved few-shot segmentation accuracy over the evaluated baselines."
+
+- title: "RBNet: An Ultrafast Rendering-Based Architecture for Railway Defect Segmentation"
+  authors: "**M. Li**, B. Peng, J. Liu and D. Zhai"
+  venue: "IEEE Transactions on Instrumentation and Measurement"
+  year: 2023
+  details: "vol. 72, pp. 1–8, Art. no. 2512808"
+  url: "https://doi.org/10.1109/TIM.2023.3269107"
+  featured: true
+  summary: "Rendering-inspired, coarse-to-fine defect segmentation with 2.36 million parameters."
+
+- title: "BVTracker: Multivehicle Tracking Based on Behavioral-Visual Features"
+  authors: "**M. Li**, D. Zhai, D. Yang and L. Xu"
+  venue: "IEEE Sensors Journal"
+  year: 2023
+  details: "vol. 23, no. 11, pp. 11815–11824"
+  url: "https://doi.org/10.1109/JSEN.2023.3265659"
+  featured: true
+  summary: "Combined behavioural and visual features for multi-vehicle tracking, achieving 157.7 FPS in the study."
+
+- title: "Study on the Behavior Ability Testing of Automated Vehicles"
+  authors: "Q. Guo, K. Pu, H. Qi, **M. Li** and D. Yang"
+  venue: "Transportation Research Board 100th Annual Meeting"
+  year: 2021
+  url: "https://trid.trb.org/view/1759600"
+
+- title: "不规则像素簇显著性检测算法"
+  authors: "**李明旭**, 翟东海"
+  venue: "中国图象图形学报 / Journal of Image and Graphics"
+  year: 2020
+  details: "vol. 25, no. 9, pp. 1837–1847"
+  url: "https://doi.org/10.11834/jig.190587"

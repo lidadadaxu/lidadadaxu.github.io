@@ -1,16 +1,12 @@
 ---
-layout: archive
+layout: profile
 title: "Publications"
 permalink: /publications/
 author_profile: true
+section_label: Research
+intro: Papers on railway inspection, efficient visual perception and related applications.
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=IsZkXwsAAAAJ)
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include publications-list.html summaries=true %}

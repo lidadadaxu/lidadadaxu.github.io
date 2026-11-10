@@ -1,0 +1,15 @@
+<ul class="publication-list">
+  {% for publication in site.data.publications %}
+  {% if include.selected != true or publication.featured %}
+  <li>
+    <span class="publication-year">{{ publication.year }}</span>
+    <div class="publication-details">
+      <a class="publication-title" href="{{ publication.url }}">{{ publication.title | escape }}</a>
+      <p class="publication-authors">{{ publication.authors | markdownify | remove: '<p>' | remove: '</p>' | strip }}</p>
+      <p class="publication-venue"><em>{{ publication.venue | escape }}</em>{% if publication.details %} · {{ publication.details | escape }}{% endif %}</p>
+      {% if include.summaries and publication.summary %}<p class="publication-summary">{{ publication.summary | escape }}</p>{% endif %}
+    </div>
+  </li>
+  {% endif %}
+  {% endfor %}
+</ul>

@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.profile_home %}Mingxu Li — Railway Inspection and Computer Vision{% else %}{{ page.title | escape }} — Mingxu Li{% endif %}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | escape }}">
+    <link rel="canonical" href="{{ page.url | absolute_url }}">
+    <meta property="og:title" content="{{ page.title | escape }} — Mingxu Li">
+    <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | escape }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/profile.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="site-brand" href="{{ '/' | relative_url }}">Mingxu Li<span class="brand-dot" aria-hidden="true">.</span></a>
+        <nav aria-label="Main navigation">
+          {% for item in site.data.navigation.main %}
+          <a href="{{ item.url | relative_url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.title }}</a>
+          {% endfor %}
+        </nav>
+      </div>
+    </header>
+    <main id="main" class="site-main">
+      {% if page.profile_home %}
+        {{ content }}
+      {% else %}
+      <header class="document-header">
+        <p class="eyebrow">Mingxu Li · {{ page.section_label | default: 'Research profile' }}</p>
+        <h1>{{ page.title }}</h1>
+        {% if page.intro %}<p class="document-intro">{{ page.intro }}</p>{% endif %}
+      </header>
+      <article class="document-content">
+        {{ content }}
+      </article>
+      {% endif %}
+    </main>
+    <footer class="site-footer">
+      <div>
+        <a class="footer-name" href="{{ '/' | relative_url }}">Mingxu Li</a>
+        <p>Railway inspection &amp; computer vision</p>
+      </div>
+      <div class="footer-links">
+        <a href="mailto:{{ site.author.email }}">Email</a>
+        <a href="{{ site.author.googlescholar }}">Google Scholar</a>
+        <a href="https://github.com/{{ site.author.github }}">GitHub</a>
+        <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}/">LinkedIn</a>
+      </div>
+      <p class="footer-credit">© {{ site.time | date: '%Y' }} Mingxu Li · Jekyll / <a href="https://academicpages.github.io/">AcademicPages</a></p>
+    </footer>
+  </body>
+</html>
