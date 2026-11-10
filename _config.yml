@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Mingxu Li"
 title_separator          : "-"
 name                     : &name "Mingxu Li"
-description              : &description "personal description"
+description              : &description "Mingxu Li is an Assistant Researcher at the China Academy of Railway Sciences, working on railway visual inspection, defect segmentation and efficient edge AI."
 url                      : https://lidadadaxu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lidadadaxu.github.io"
+repository               : "lidadadaxu/lidadadaxu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,26 +78,26 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mingxu Li, PhD. student"
+  name             : "Mingxu Li"
   avatar           : "IMG_9431.jpg"
-  # bio              : "Email: Li.Mingxu@my.swjtu.edu.cn"
-  location         : "Nanyang Technological University"
-  employer         : "Southwest Jiaotong University"
-  googlescholar    : #"https://scholar.google.fr/citations?user=OhPsgH0AAAAJ&hl=en"
-  email            : Li.Mingxu@my.swjtu.edu.cn 
-  uri              : "https://sites.google.com/view/ldaxu/home"
+  bio              : "Assistant Researcher<br>Railway Inspection and Computer Vision"
+  location         :
+  employer         : "China Academy of Railway Sciences"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=IsZkXwsAAAAJ"
+  email            : "lidadaxu@hotmail.com"
+  uri              : "https://lidadadaxu.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "lidadadaxu"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : #"https://cn.linkedin.com/in/yizhen-lao-928644a1"
+  linkedin         : "mingxu-li-1a52b3443"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -140,6 +140,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - _publications
 keep_files:
   - .git
   - .svn
